@@ -1,6 +1,4 @@
-Folder PATH listing for volume Learning
-Volume serial number is E883-5E70
-F:.
+
 |   README.txt
 |   
 \---wsgi_vs_flask
